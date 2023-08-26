@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi I'm Kader SUTLU👋<br><br><br>- 🔭 I am a senior computer engineering student. As a result of my undergraduate education and internships, I had the opportunity to experience many fields. As a result of these experiences, I decided to direct my career in the field of mobile application development. That's why I improve myself by taking lessons in this field.<br><br>- 🌱 I’m currently learning Kotlin and Flutter. 
+### Hi I'm Kader SUTLU👋<br><br><br>- 🔭 I am a recent graduate computer engineering student. As a result of my undergraduate education and internships, I had the opportunity to experience many fields. As a result of these experiences, I decided to direct my career in the field of mobile application development. That's why I improve myself by taking lessons in this field.<br><br>- 🌱 I’m currently learning Kotlin and Flutter. 
 
 
 ## 🌐 Socials:
