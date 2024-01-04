@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi I'm Kader SUTLU👋<br><br><br>- 🔭 I am a computer engineering student. As a result of my undergraduate education and internships, I had the opportunity to experience many fields. As a result of these experiences, I decided to direct my career in the field of mobile application development. That's why I improve myself by taking lessons in this field.<br><br>- 🌱 I’m currently learning Kotlin. 
+### Hi I'm Kader SUTLU👋<br><br><br>- 🔭I am a computer engineering student, and I aim to shape my career in mobile app development. I continuously learn new technologies and stay updated to specialize in mobile app development. <br><br>- 🌱 I’m currently learning Kotlin. 
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kadersuutlu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadersuutlu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kadersuutlu&icon=0&color=0)](https://visitcount.itsvg.in)
