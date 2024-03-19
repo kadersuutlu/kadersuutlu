@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi I'm Kader SUTLU👋<br><br><br>- 🔭I am a computer engineering student, and I aim to shape my career in mobile app development. I continuously learn new technologies and stay updated to specialize in mobile app development. <br><br>- 🌱 I’m currently learning Kotlin. 
+### Hi I'm Kader SUTLU👋<br><br><br>- 🔭I am a graduate in computer engineering.  <br><br>- 🌱  I am focusing on developing myself in the field of Android app development to shape my career. I continuously learn new technologies and stay updated to specialize in mobile app development.
 
 
 ## 🌐 Socials:
