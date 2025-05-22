@@ -7,7 +7,7 @@ I participated in several **bootcamps**, completed **voluntary internships**, an
 At the same time, I work as an **ICT teacher** at a vocational high school, where I find great value in sharing knowledge with others. Still, my main goal is to begin my professional journey as a software developer and I'm actively seeking the right opportunity.
 
 📌 I'm a motivated and adaptable developer, always eager to learn and grow.  
-🌍 I'm currently taking an English course to build a strong foundation, and my current level is **A2**.
+🌍 I'm currently taking an English course to build a strong foundation, and my current level is **B1**.
 
 ---
 
