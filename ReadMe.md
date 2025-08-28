@@ -1,13 +1,8 @@
 # 💫 About Me
 
-Hi! I'm **Kader Sutlu**, a Computer Engineering graduate from **Kırşehir Ahi Evran University**, class of February 2024. During my university years, despite the challenges of remote learning caused by the pandemic and earthquakes, I stayed focused on improving myself in the software field.
-
-I participated in several **bootcamps**, completed **voluntary internships**, and worked on real-life projects to gain hands-on experience. Over time, I developed a strong interest in **Android development**. For the past **1.5 years**, I've been actively working in this field, including an **8-month internship** as an Android developer. Currently, I'm learning **Jetpack Compose** and working on **three Android projects**.
-
-At the same time, I work as an **ICT teacher** at a vocational high school, where I find great value in sharing knowledge with others. Still, my main goal is to begin my professional journey as a software developer and I'm actively seeking the right opportunity.
-
-📌 I'm a motivated and adaptable developer, always eager to learn and grow.  
-🌍 I'm currently taking an English course to build a strong foundation, and my current level is **B1**.
+Hi! I'm Kader Sutlu, a Computer Engineering graduate (2024).
+I have experience in Android development (Kotlin, Firebase, Jetpack Compose) and I’m currently focusing on software testing (manual & automation) to strengthen my QA skills.
+📌 Passionate about building reliable applications and continuously improving myself in software development & testing.
 
 ---
 
