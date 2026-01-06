@@ -1,35 +1,45 @@
-# 💫 About Me
+# Hi there, I'm Kader Sutlu 👋
 
-Hi! I'm Kader Sutlu, a Computer Engineering graduate (2024).
-I have experience in Android development (Kotlin, Firebase, Jetpack Compose) and I’m currently focusing on software testing (manual & automation) to strengthen my QA skills.
-📌 Passionate about building reliable applications and continuously improving myself in software development & testing.
+### 🚀 Software Engineer | QA & Test Automation Enthusiast
+
+I am a Computer Engineering graduate (2024) with a solid foundation in **Android Development** and a strong passion for **Software Quality Assurance**. Currently, I am pivoting my career towards **Software Testing (Manual & Automation)**, leveraging my development background to build robust, bug-free, and high-quality applications.
 
 ---
 
-## 💻 Tech Stack
+### 🛠️ Tech Stack & Tools
+
+**Testing & QA:**
+- **Manual Testing:** Test Case Design, Bug Reporting, SDLC/STLC.
+- **Automation:** Selenium (Learning), Unit Testing, Integration Testing.
+- **Tools:** Postman (API Testing), Jira, Git/GitHub.
+
+**Development:**
+- **Languages:** Kotlin, Java, Python.
+- **Mobile:** Android Studio, Jetpack Compose, Firebase.
+- **Version Control:** Git, GitHub Actions.
+
+---
+
+### 📈 Current Focus
+- 🔍 Deepening my knowledge in **Test Automation Frameworks** (Selenium, Appium).
+- 🧪 Enhancing my **API Testing** skills using Postman and RestAssured.
+- 📱 Combining my Android expertise with mobile automation testing.
+
+---
+
+
+### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <a href="https://www.linkedin.com/in/kadersutlu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@sutlukader" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="mailto:sutlukader@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadersutlu/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sutlukader)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kadersutlu34)
