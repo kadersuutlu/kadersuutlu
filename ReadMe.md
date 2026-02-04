@@ -2,28 +2,31 @@
 
 ### 🚀 Software Engineer | QA & Test Automation Enthusiast
 
-I am a Computer Engineering graduate (2024) with a solid foundation in **Android Development** and a strong passion for **Software Quality Assurance**. Currently, I am pivoting my career towards **Software Testing (Manual & Automation)**, leveraging my development background to build robust, bug-free, and high-quality applications.
+Computer Engineering graduate (2024) with a strong interest in Software Quality Assurance and Test Automation.
+I focus on ensuring software quality through well-designed test scenarios, effective bug reporting, and automation testing, with hands-on experience in mobile and API testing.
 
+I enjoy working close to the product, questioning edge cases, and contributing to stable, reliable releases.
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Testing & QA:**
-- **Manual Testing:** Test Case Design, Bug Reporting, SDLC/STLC.
-- **Automation:** Selenium (Learning), Unit Testing, Integration Testing.
-- **Tools:** Postman (API Testing), Jira, Git/GitHub.
+- **Manual Testing:** Test Case & Test Scenario Design, Bug Reporting, SDLC / STLC
+- **Automation:** Appium (Mobile Automation), Selenium (Learning)
+- **API Testing:** Postman, REST APIs, API validation & negative testing
+- **Tools:** Jira, Git, GitHub, GitHub Actions
 
 **Development:**
-- **Languages:** Kotlin, Java, Python.
-- **Mobile:** Android Studio, Jetpack Compose, Firebase.
-- **Version Control:** Git, GitHub Actions.
+- **Languages:** Java, Kotlin, Python
+- **Automation Support:** Writing reusable test logic, understanding testability
 
 ---
 
 ### 📈 Current Focus
-- 🔍 Deepening my knowledge in **Test Automation Frameworks** (Selenium, Appium).
-- 🧪 Enhancing my **API Testing** skills using Postman and RestAssured.
-- 📱 Combining my Android expertise with mobile automation testing.
+- 🔍 Building end-to-end mobile test automation with Appium
+- 🧪 Strengthening API testing skills (Postman, authentication, edge cases)
+- 🔁 Learning test automation frameworks & best practices
+- 📝 Writing about software testing & QA practices on Medium
 
 ---
 
